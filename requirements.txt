@@ -1,7 +1,6 @@
-tensorflow-cpu==2.15.0
-h5py==3.11.0
-Flask
-Pillow
-numpy
-Flask-Cors
+flask
 gunicorn
+numpy
+pillow
+tensorflow
+flask-cors
